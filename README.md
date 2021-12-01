@@ -16,6 +16,7 @@
 <h3 align="center"> 💬 About Me 💬 </h3>
 
 <div align=center>
+  
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/phw820)](https://blog.naver.com/phw820) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://k-motor.github.io/)](https://k-motor.github.io/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/goodrichnice/)](https://www.instagram.com/goodrichnice/) 
