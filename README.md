@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HYUNWOOPARK&fontSize=70&animation=twinkling)
 
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk-motor&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -28,12 +34,6 @@
 [![k-motor's github stats](https://github-readme-stats.vercel.app/api?username=k-motor&count_private=true&custom_title=k-motor's&nbsp;github&nbsp;🔭&bg_color=30,666699,003300&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-motor&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,666699,003300&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk-motor&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 
 
