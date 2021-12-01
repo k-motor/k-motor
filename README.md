@@ -33,6 +33,7 @@
 
 
 [![k-motor's github stats](https://github-readme-stats.vercel.app/api?username=k-motor&count_private=true&custom_title=k-motor's&nbsp;github&nbsp;🔭&bg_color=30,666699,003300&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-motor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
