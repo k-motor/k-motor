@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vectorworks-000000?style=flat-square&logo=CANoe&logoColor=white"/></a>&nbsp 
-  ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white)
+  <img alt="Vectorworks" src ="https://img.shields.io/badge/Vectorworks-000000.svg?&style=for-the-badge&logo=CANoe&logoColor=white"/>
+  
 </p>
 
 <h3 align="left"> 💬 About Me 💬 </h3>
