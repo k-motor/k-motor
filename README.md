@@ -6,6 +6,8 @@
 
 </div>
 
+-[Project-History]
+
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
 <p align="left"> Techs that I've used at least once </p>
@@ -51,7 +53,7 @@
 
 
 
-
+[Project-History]: <https://github.com/k-motor/Project-History>
 
 <!--
 **k-motor/k-motor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
