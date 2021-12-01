@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Vectorworks-000000?style=flat-square&logo=CANoe&logoColor=white"/></a>&nbsp 
   ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white)
+</p>
 
 <h3 align="left"> 💬 About Me 💬 </h3>
 
