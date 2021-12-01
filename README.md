@@ -20,10 +20,11 @@
 
 <p align="left">
   
-  ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white)
-  ![CANoe](https://img.shields.io/badge/CANoe-00ADD8?style=flat-square&logoColor=white)
-  ![CANpe](https://img.shields.io/badge/CANpe-00ADD8?style=flat-square&logoColor=white)
+  ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white) 
   ![Trace32](https://img.shields.io/badge/Trace32-00ADD8?style=flat-square&logoColor=white)
+  ![CANoe](https://img.shields.io/badge/CANoe-FF0000?style=flat-square&logoColor=white)
+  ![CANpe](https://img.shields.io/badge/CANpe-FF0000?style=flat-square&logoColor=white)
+
 </p>
 
 <h3 align="left"> 💬 About Me 💬 </h3>
