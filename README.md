@@ -16,10 +16,10 @@
 <h3 align="center"> 💬 About Me 💬 </h3>
 
 <div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/phw820)](https://blog.naver.com/phw820) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://k-motor.github.io/)](https://k-motor.github.io/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/goodrichnice/)](https://www.instagram.com/goodrichnice/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gccvia.out@gmail.com)](mailto:gccvia.out@gmail.com)
 </div>
 
 
