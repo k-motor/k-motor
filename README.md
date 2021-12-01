@@ -19,7 +19,10 @@
 </p>
 
 <p align="left">
-  <img alt="Accenture" src ="https://img.shields.io/badge/Accenture-A100FF.svg?&style=for-the-badge&logo=CANoe&logoColor=white"/>
+  ![Firmware](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white) 
+  ![CANoe](https://img.shields.io/badge/CANoe-00ADD8?style=flat-square&logoColor=white) 
+  ![CANpe](https://img.shields.io/badge/CANpe-00ADD8?style=flat-square&logoColor=white) 
+  ![Trace32](https://img.shields.io/badge/Trace32-00ADD8?style=flat-square&logoColor=white) 
   
 </p>
 
