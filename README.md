@@ -6,7 +6,7 @@
 
 </div>
 
--[Project-History]
+- [Project-History]
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
