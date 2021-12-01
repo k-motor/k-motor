@@ -18,15 +18,17 @@
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 </p>
 
-
+<h3 align="left">🛠 Tool Stack 🛠</h3>
 <p align="left">
   
   ![NXP Codeworrior](https://img.shields.io/badge/NXP-Codeworrior-00ADD8?style=flat-square&logoColor=white) 
   ![NXP DS](https://img.shields.io/badge/NXP-DesignStudio-00ADD8?style=flat-square&logoColor=white) 
-  ![TI CCS](https://img.shields.io/badge/TI-CCS-00ADD8?style=flat-square&logoColor=white) 
+  ![TI CCS](https://img.shields.io/badge/TI-CCS-00ADD8?style=flat-square&logoColor=white)
+  
   ![Trace32](https://img.shields.io/badge/Trace32-00ADD8?style=flat-square&logoColor=white)
   ![CANoe](https://img.shields.io/badge/Vector-CANoe-FF0000?style=flat-square&logoColor=white)
-  ![CANpe](https://img.shields.io/badge/Vector-CANpe-FF0000?style=flat-square&logoColor=white) 
+  ![CANpe](https://img.shields.io/badge/Vector-CANpe-FF0000?style=flat-square&logoColor=white)
+  
   ![CATIA](https://img.shields.io/badge/CATIA-00ADD8?style=flat-square&logoColor=white) 
   ![PADS](https://img.shields.io/badge/PADS-00ADD8?style=flat-square&logoColor=white) 
   ![EA](https://img.shields.io/badge/EA-00ADD8?style=flat-square&logoColor=white)
