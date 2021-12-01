@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img alt="Vectorworks" src ="https://img.shields.io/badge/Vectorworks-000000.svg?&style=for-the-badge&logo=CANoe&logoColor=white"/>
+  <img alt="Accenture" src ="https://img.shields.io/badge/Accenture-A100FF.svg?&style=for-the-badge&logo=CANoe&logoColor=white"/>
   
 </p>
 
