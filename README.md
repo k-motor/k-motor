@@ -32,7 +32,7 @@
 </div>
 
 
-[![k-motor's github stats](https://github-readme-stats.vercel.app/api?username=k-motor&count_private=true&custom_title=k-motor's&nbsp;github&nbsp;🔭&bg_color=30,ffffff,000000,000000&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![k-motor's github stats](https://github-readme-stats.vercel.app/api?username=k-motor&count_private=true&custom_title=k-motor's&nbsp;github&nbsp;🔭&bg_color=180,ffffff,000000,000000&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
