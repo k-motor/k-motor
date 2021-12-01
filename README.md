@@ -21,8 +21,8 @@
 
 <p align="left">
   
-  ![NXP](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white) 
-  ![TI](https://img.shields.io/badge/Firmware-00ADD8?style=flat-square&logoColor=white) 
+  ![NXP](https://img.shields.io/badge/NXP-00ADD8?style=flat-square&logoColor=white) 
+  ![TI](https://img.shields.io/badge/TI-00ADD8?style=flat-square&logoColor=white) 
   ![Trace32](https://img.shields.io/badge/Trace32-00ADD8?style=flat-square&logoColor=white)
   ![CANoe](https://img.shields.io/badge/CANoe-FF0000?style=flat-square&logoColor=white)
   ![CANpe](https://img.shields.io/badge/CANpe-FF0000?style=flat-square&logoColor=white)
