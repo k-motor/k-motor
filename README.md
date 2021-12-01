@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HYUNWOOPARK&fontSize=70&animation=twinkling)
 
-<div align=center>
+<div align=left>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk-motor&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="left"> Techs that I've used at least once </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -19,9 +19,9 @@
 </p>
 
 
-<h3 align="center"> 💬 About Me 💬 </h3>
+<h3 align="left"> 💬 About Me 💬 </h3>
 
-<div align=center>
+<div align=left>
   
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/phw820)](https://blog.naver.com/phw820) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://k-motor.github.io/)](https://k-motor.github.io/) 
