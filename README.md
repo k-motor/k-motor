@@ -7,10 +7,12 @@
 </div>
 
 ###Embedded Motor S/W Engineer
+
 - [Project-History]
 - [Available-Dev Tools]
 
 ###Interest
+
 - DC Motor Control
 - PMSM(AC) Motor Control
 - CAN Calibration Protocol - CCP
