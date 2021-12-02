@@ -7,6 +7,9 @@
 </div>
 
 <h3 align="left">Embedded Motor S/W Engineer</h3>
+I`m a embedded software engineer.
+my main work was motor contorl, failsafe and CCP porting.
+I experienced UDS and unit test.
 
 - [Project-History]
 - [Available-Dev Tools]
