@@ -6,7 +6,23 @@
 
 </div>
 
+##Embedded Motor S/W Engineer
 - [Project-History]
+- [Available-Dev Tools]
+
+##Interest
+- DC Motor Control
+- PMSM(AC) Motor Control
+- CAN Calibration Protocol - CCP
+- Unified Diagnostic Services - UDS
+- Autosar
+- BSW Design
+- Firmware
+- Failsafe
+- Electric Power Steering - EPS
+- Circuit Design & Artwork - PADS
+- 3D Modeling - CATIA
+- SW Architecture - EA
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
@@ -54,7 +70,7 @@
 
 
 [Project-History]: <https://github.com/k-motor/Project-History>
-
+[Available-Dev Tools]: <https://github.com/k-motor/Available-Development-Tools>
 <!--
 **k-motor/k-motor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
