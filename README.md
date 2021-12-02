@@ -6,11 +6,11 @@
 
 </div>
 
-<h3 align="left">###Embedded Motor S/W Engineer###</h3>
+<h3 align="left">Embedded Motor S/W Engineer</h3>
 - [Project-History]
 - [Available-Dev Tools]
 
-<h3 align="left">###Interest###</h3>
+<h3 align="left">Interest</h3>
 - DC Motor Control
 - PMSM(AC) Motor Control
 - CAN Calibration Protocol - CCP
