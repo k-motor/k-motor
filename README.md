@@ -24,8 +24,8 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 - Firmware
 - Failsafe
 - [Circuit Design & Artwork - PADS]
-- 3D Modeling - CATIA
-- SW Architecture - EA
+- [3D Modeling - CATIA]
+- [SW Architecture - EA]
 - Electric Power Steering - EPS
 - Autosar
 
@@ -83,6 +83,9 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 [CAN Calibration Protocol - CCP]: https://github.com/k-motor/CCP
 [Circuit Design & Artwork - PADS]: https://github.com/k-motor/PCB-Artwork-PADS
 [3D Modeling - CATIA]: https://github.com/k-motor/3D-Modeling-CATIA
+[SW Architecture - EA]: https://github.com/k-motor/SW-Architecture-EA
+
+
 <!--
 **k-motor/k-motor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
