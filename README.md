@@ -81,6 +81,7 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 [Project-History]: <https://github.com/k-motor/Project-History>
 [Available-Dev Tools]: <https://github.com/k-motor/Available-Development-Tools>
 [CAN Calibration Protocol - CCP]: https://github.com/k-motor/CCP
+[Circuit Design & Artwork - PADS]: https://github.com/k-motor/PCB-Artwork-PADS
 <!--
 **k-motor/k-motor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
