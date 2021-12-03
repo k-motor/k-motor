@@ -16,17 +16,16 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 <h3 align="left">Interest</h3>
 
 - C Data Structure & Algorithm
+- Linux System Programming
 - DC Motor Control
 - PMSM(AC) Motor Control
 - [CAN Calibration Protocol - CCP]
 - Unified Diagnostic Services - UDS
-- BSW Design
-- Firmware
-- Failsafe
+- Firmware - BSW Design
+- Failsafe - Electric Power Steering
 - [Circuit Design & Artwork - PADS]
 - [3D Modeling - CATIA]
 - [SW Architecture - EA]
-- Electric Power Steering - EPS
 - Autosar
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
