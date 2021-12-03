@@ -43,6 +43,9 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 </p>
 
 <h3 align="left">🛠 Tool Stack 🛠</h3>
+
+<p align="left"> Tools that I've used at least once </p>
+
 <p align="left">
   
   ![NXP Codeworrior](https://img.shields.io/badge/NXP-Codeworrior-00ADD8?style=flat-square&logoColor=white) 
