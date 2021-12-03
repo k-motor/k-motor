@@ -20,14 +20,14 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 - PMSM(AC) Motor Control
 - [CAN Calibration Protocol - CCP]
 - Unified Diagnostic Services - UDS
-- Autosar
 - BSW Design
 - Firmware
 - Failsafe
-- Electric Power Steering - EPS
 - Circuit Design & Artwork - PADS
 - 3D Modeling - CATIA
 - SW Architecture - EA
+- Electric Power Steering - EPS
+- Autosar
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
