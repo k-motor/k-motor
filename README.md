@@ -17,6 +17,7 @@ My ultimate goal is to become a practical system architect.
 
 <h3 align="left">Interest</h3>
 
+- C Data Structure & Algorithm
 - DC Motor Control
 - PMSM(AC) Motor Control
 - [CAN Calibration Protocol - CCP]
