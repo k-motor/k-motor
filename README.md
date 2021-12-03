@@ -7,16 +7,15 @@
 </div>
 
 <h3 align="left">Embedded Motor S/W Engineer</h3>
+
 I`m a embedded software engineer in the automotive.
 my main work was motor contorl, failsafe and CCP porting.
 I experienced UDS and unit test. I aslo interested in PCB & 3D Modeling
 My ultimate goal is to become a practical system architect.
-
+<h3 align="left">Interest</h3>
 
 - [Project-History]
 - [Available-Dev Tools]
-
-<h3 align="left">Interest</h3>
 
 - C Data Structure & Algorithm
 - DC Motor Control
