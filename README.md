@@ -19,6 +19,7 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 - Linux System Programming
 - DC Motor Control
 - PMSM(AC) Motor Control
+- FreeRTOS
 - [CAN Calibration Protocol - CCP]
 - Unified Diagnostic Services - UDS
 - Firmware - BSW Design
