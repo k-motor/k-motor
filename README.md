@@ -15,7 +15,7 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 
 <h3 align="left">Interest</h3>
 
-- [C Data Structure & Algorithm]
+- [C-Cpp Data Structure & Algorithm]
 - Linux System Programming
 - DC Motor Control
 - PMSM(AC) Motor Control
@@ -77,7 +77,7 @@ I`m a embedded software engineer in the automotive. my main work was motor conto
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-motor&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,666699,003300&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[C Data Structure & Algorithm]: https://github.com/k-motor/C-Data-Structure-Algorithm
+[C-Cpp Data Structure & Algorithm]: https://github.com/k-motor/C-Data-Structure-Algorithm
 [Project-History]: <https://github.com/k-motor/Project-History>
 [Available-Dev Tools]: <https://github.com/k-motor/Available-Development-Tools>
 [CAN Calibration Protocol - CCP]: https://github.com/k-motor/CCP
